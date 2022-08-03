@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RockSnow
+  m_Shader: {fileID: -6465566751694194690, guid: af3edf6953be14cc795e340bd6bb428d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_117153F:
+        m_Texture: {fileID: 2800000, guid: b4d58d91e55064ffe87b0c0ef434e55f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_35ED5F16:
+        m_Texture: {fileID: 2800000, guid: e8d5df19a3af64a4aacf4fcc3d8d5bdd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_61E52462:
+        m_Texture: {fileID: 2800000, guid: 53b54987324a945118c319dc174bd73b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B1B9B6BD:
+        m_Texture: {fileID: 2800000, guid: 652a0027e926b4857bb6aea853a06946, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B5E5A656:
+        m_Texture: {fileID: 2800000, guid: d6004982a1197446badaf0ef2254228b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E73A293D:
+        m_Texture: {fileID: 2800000, guid: 7e185abc32ca04ffabf177c60fe62de8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2CCB69CE: 0.306
+    - Vector1_395BF9A: -2.88
+    - Vector1_4327FAEE: 10.22
+    - Vector1_4E395A05: 0
+    - Vector1_668A0926: 2.4
+    - Vector1_B233F6F1: 0.25
+    - Vector1_D64505DF: 3.57
+    - Vector1_D8E02B36: 0.5
+    m_Colors:
+    - Vector3_C887163D: {r: 0.22, g: 2.7, b: 0, a: 0}
