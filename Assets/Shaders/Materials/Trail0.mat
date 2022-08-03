@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ImpactWhite02_SGAddScroll
+  m_Name: Trail0
   m_Shader: {fileID: 4800000, guid: 17882f89ffea94f479bfcc52855cb542, type: 3}
   m_ShaderKeywords: _DISTORTMAINTEXTURE_ON _EMISSION
   m_LightmapFlags: 1
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_7FCC054E:
-        m_Texture: {fileID: 2800000, guid: c936e49026718a642958d0ce5d715cd1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3283f1eebfcf78a428098c12f653fe0a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_B24C83B0:
@@ -28,11 +28,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_E43982E:
-        m_Texture: {fileID: 2800000, guid: 137630b98fb8ca14994287aeddeb8b75, type: 3}
+        m_Texture: {fileID: 2800000, guid: 82f4b06147155c54da475b309b9e24fa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_E5130C32:
-        m_Texture: {fileID: 2800000, guid: ae35c3f46db9fd442b94a73df0ec0f44, type: 3}
+        m_Texture: {fileID: 2800000, guid: 03e4ee8d0b5f45045bb12e2930ed4058, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -92,8 +92,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_C1728026: 1.5
-    - Vector1_D1034171: 0.2
+    - Vector1_C1728026: 0.9
+    - Vector1_D1034171: 0.6
     - _BumpScale: 1
     - _ColorMultiplier: 2.5
     - _Cutoff: 0.5
@@ -128,13 +128,13 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - Color_DB555ADA: {r: 44.727043, g: 44.727043, b: 44.727043, a: 1}
-    - Vector2_781FB8A4: {r: 1, g: 1, b: 0, a: 0}
-    - Vector2_892CE00: {r: 1, g: 1, b: 0, a: 0}
-    - Vector2_8E0A3991: {r: 0, g: -0.2, b: 0, a: 0}
+    - Color_DB555ADA: {r: 5.992157, g: 5.992157, b: 5.992157, a: 1}
+    - Vector2_781FB8A4: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector2_892CE00: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector2_8E0A3991: {r: -0.8, g: 0.1, b: 0, a: 0}
     - Vector2_C3A961A0: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_D6AA7B7D: {r: 3, g: 1, b: 0, a: 0}
-    - Vector2_E10066FE: {r: 0, g: 0.5, b: 0, a: 0}
+    - Vector2_D6AA7B7D: {r: 1, g: 0.73, b: 0, a: 0}
+    - Vector2_E10066FE: {r: -0.75, g: 0.2, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _TintColor: {r: 1, g: 1, b: 1, a: 1}
